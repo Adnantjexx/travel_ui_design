@@ -1,6 +1,12 @@
 # traveluidesign
 
-A new Flutter application.
+![](https://i.postimg.cc/yYcrhWMG/5-1.png)
+![](https://i.postimg.cc/NMZpmwpY/1.png)
+![](https://i.postimg.cc/hGyC4mmX/2.png)
+![](https://i.postimg.cc/tJPDzmM6/3.png)
+![](https://i.postimg.cc/NMKdK08p/4.png)
+![](https://i.postimg.cc/vZvqjkHL/5-2.png)
+![](https://i.postimg.cc/bvNCjgZX/5.png)
 
 ## Getting Started
 
